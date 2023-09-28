@@ -1,0 +1,178 @@
+https://www.youtube.com/watch?v=jVUfsxmJgCc&list=PL74VcZiAoNdN_mqofQEORw42UX0YPCC14&ab_channel=CTPSEducation
+
+https://www.youtube.com/watch?v=O_Mnvr_2-LA&list=PLCzz72uoHLbTimUHDXJ33MIyYaOaJTFVw&ab_channel=KumarCoding
+
+1)what is java?
+. it communicate to machine so it is high level language
+. everything in java is object so it is called object oriented language
+. developed by sun microsystem-james gosling
+. developing web application
+
+2)List some feature of java? 
+. syntax is simple
+. everything in java is object so it is called object oriented language
+. java can be run as any os platform independent
+. java can be convert to any other language so it is called portable
+. secured
+
+3)explain jdk,jvm,jre?
+. jdk-
+java developement kit (it provide a developement environment there we develop java application )
+it contains jre + development tools
+. jre-
+java runtime environment (it provide a environment to running java program. it contains library for running java program)
+. jvm-
+java virtual machine (it provide a runtime environment in which java bytecode is executed)
+
+4)why java is platform independent?
+first java program is compiled and convert into byte code.that bytecode is platform independent because can be run on multiple platform.
+
+5)why java is not 100% object-oriented?
+because primitive datatype (byte, short, char, int ,long, boolean,float,double) are not object.
+but primitive data type convert to object by wrapper classes 
+
+6)expain public static void main(String args[]) in java?
+. public- it is access modifier that make method is accessible by any classes
+. static- it is a keyword in java which identified it is class based 
+. void- it is return type of method it not return any value
+. main- name of the method which is searched by jvm at starting point
+. String args[]- it is parameterised based main method
+
+7)what are constructor in java?
+block of code used to initialised an object
+its samename as class namen and no return type
+it is automatically called when object is created.
+
+it is two type->
+default constructor->
+parameterised constructor->
+
+8)why pointer are not used in java?
+breacuse it is unsafe and increase the complexity ofthe program
+
+9)what is jit compiler in java?
+it help to convert the bytecode to instruction
+
+10)what is meant by local and instance variable?
+local variable-> that scope inside the method 
+instance varible->that scope outside the method
+
+11)define package in java?
+package is a group of related (classes, interface, enumeration, annotation)
+it is used to prevent naming conflict, control access,to make locating file easier 
+
+
+12)what is singleton class?how to create own singleton class?
+singleton class have only one instance
+ex-in a team everyone connecting to same database so developer creating a class and creating object for that memory utilisation is increase and performance is decreased so avoid that we can create singleton class there we can create only one object so everyone can access that object that memory utilisation is
+high and performance is improved
+
+to create singleton class:-
+. private constructor
+. private static varible
+. public factory method 
+
+13)what are access modifier?
+it wil helpful for control for visibility of class so we can restrict which class known to other ansd which class is restrict
+. public-> makeamethod is accessible with in the application.
+. private-> accessible with in the class
+. protected-> accessible in current package and child class outside package
+. default-> accessible with in current package
+
+14)what  is class loader in java?
+it is resposible for loading class file. 
+ so class loader its a part of jre that dynamically load class file in to jvm
+ whenever we are running the application it load all the classes
+ java provide 3 built in class loader:-
+ . bootstrap class loader - it is kick start the application
+ . extension class loader - it load the library
+ . system/application class loader - it load the class file
+
+15)which class is the super class  of all classes?
+java.lang.Object is the root class for all java classes and we don't need to extend it 
+
+16)what is static keyword?
+. it is a class level varible
+. it is a global varible
+. all the object share the same varible
+ex-employee in the company so all employee share the same company name so company name is static 
+
+17)what is final keyword?
+. final is modifier
+. if class is final child class can not be created
+. if method is final.it can not be overided
+. if variable is final it can not be change
+
+18)can we declare class as static?
+we can't declare top level class as static.but an inner class can be declared as static
+
+19)what is static block?
+static block is the group of statement that get executed when the class is loaded into memory by java class loader.it is used to initialise static varible of the class  
+
+20)what is marker interface?
+marker interface is an empty interface without any method but used to force some functionality implementing class by java.
+ex- Serializable and Cloneable  
+
+21)what is enum in java?
+enum is introduced  in java 1.5
+it consist set of constant
+ex- east,west,north,south
+enum constant are implicitly static and final 
+
+22)what is garbage collection?
+process of looking at heap memory identifying which object are in use and which are not and deleteing unused object
+
+23)what is serialisation and deserialisation?
+serialisation-> converting java object to stream of bytes is called serialization
+deserialisation-> converting stream data to object is clled deserialization 
+
+
+24)what is system.out.println in java?
+system.out.println is a java statement that print the argument nd passd in to it
+system-> class in java.lang.package
+out->varible in java.io.PrintStream
+println-> method of java.io.PrintStream
+
+25)how many ways object can be created in java?
+. java new operator
+. java Class.newInstance() method
+. java newInstance() method of constructor
+. java Object.clone() method
+. java Object Serialization and Deserialtion 
+
+26)what are the object class method in java?
+1)Class<?>getClass()- used to get runtime class of this object
+2)protect Object clone()- create and return a copy of object
+3)boolen equals(Object obj)- it compare some object check the equality b/w them
+4)int hashcode()- get the hashcode value of object
+5)protected void finalize()-garbage collector call this method on an objectit determine no more refernce to the object (close the resource)
+6)String toString()- get the string representation of object
+ex- some object print memory address so overide toString() to print string representation 
+7)void notify()- notify a single thread that is waiting on this object
+8)void notifyAll()- notify all thread that is waiting on this object
+9)void wait()- current thread wait until another thread notify() and notifyAll();
+10)void wait(long timeout)- current thread wait until another thread notify() and notifyAll(), or specified time to elapsed
+11)void wait(long timeout, int nanos)- current thread wait until another thread notify() and notifyAll() or some another thread intrupt th current thread,  or specified time to elapsed
+
+27)how to create immutable class in java?
+. declare class as final so it can't extended
+. all field private and final
+. don't provide setter method for variable
+. initialize all field through constructor
+
+28)what is jit?
+it is compiler and it is a component of java runtime environment that improve the performance of java application.
+
+29)why Cloneable and Serializable are marker inter face?
+30)can u overide private and static method in java?
+31)does finally always execute in java?
+
+28)what are genrics?
+29)default hashcode implementation?
+30)what is jdk?
+31)error status codes?
+100-199-> informational
+200-299->success responsee
+300-399->redirectional responses
+400-499->client error
+500-599>server error

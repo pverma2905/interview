@@ -1,0 +1,7 @@
+1)given string is parlidrome program?
+2)second largest number in array?
+3)count number of words in a string?
+4)print and remove all dupicate froma given string?
+5)check two given string are anagram ofeach other?
+6)how to convert string to an integer? 
+ 

@@ -1,0 +1,5 @@
+@media screeen and (min-width:480px)
+@media screeen and (max-width:540px)
+@media screeen and (max-width:768px)
+@media screeen and (max-width:992px)
+@media screeen and (max-width:1200px)

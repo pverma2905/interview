@@ -1,0 +1,6 @@
+img video is resized and fit ti its container
+
+object-fit:fill
+object-fit:contain
+object-fit:cover
+object-fit:none

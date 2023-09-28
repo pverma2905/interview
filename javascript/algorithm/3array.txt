@@ -1,0 +1,11 @@
+insert at end -O(1)
+remove at end -O(1)
+
+insert at begining -O(n)
+remove at begining -O(n)
+
+access-O(1)
+search-O(n)
+push/pop-O(1)
+shift/unshift/concat/slice/splice=O(n)
+forEach/map/filterreduce=O(n)

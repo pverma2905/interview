@@ -1,0 +1,15 @@
+1)what is artifact repository?
+It is used to store build artifact like jar and war of our project. 
+
+2)why are you using nexux repository in the project?
+to store build artifact
+to maintain shared libraries
+
+3)what is snapshot repository & release repository?
+when project is underDevelopment then artifact will be uploaded to snapshot repository when project is released then it will be uploaded to release repository 
+
+4)Do you have remote repository forthe project?
+yes we are using and maintaing shared libraries of our company
+
+5)how do you secure remote repository?
+in nexus we configured proxy-server to authenticate request.if request is coming from company network then only it will be processed otherwise will not procssed the request

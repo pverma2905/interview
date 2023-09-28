@@ -1,0 +1,137 @@
+Rxjs:
+1)Subject vs behaviorsubject
+2)type of subject
+3)subject
+4)behaviourSubject
+5)replaySubject
+6)asyncSubject
+7)of vs from
+8)what is switchmap in angular?
+9)types of map
+10)combineLatest
+11)flattering
+12)merge
+13)forkJoin
+14)concatCatMap mergemap
+
+Angular:
+1)impure vs pure
+2)observable vs promise
+3)performance improve in angular
+4)jit vs aot
+5)auth guard/route gourdcode
+6)routing
+7)what is webpack?
+8)what is entry component?
+9)what is router state?
+10)maintain security?
+11)angular life cycle?
+12)write interceptor code
+13)write lazy loading code
+14)what is observable?
+15)@Ngmodule
+16)treeShakable
+
+Javascript:
+1)Function vs arrow function
+2)this
+3)promise vs setTimeout
+4)array vs set
+5)map
+6)weakmap
+7)weakset
+8)call by value and call by reference
+9)map vs forEach
+10)filter vs find
+11)some vs  find
+12)some vs every
+13)rest vs spread
+14)for vs forEach
+15)for in  vs for of
+16)call ,apply , bind
+17)closure
+18)prototype
+19)how many way create object
+20)string methods
+21)what is scope in javascript?
+22)new feature of es6?
+23)what is first class function in javascript?
+24)methods of array?
+25)difference b/w index of and includes?
+26)what is hoisting? Example
+27)what is arrow function?
+28)map vs filter vs reduce??
+29)reactive programing
+30)what is destructuring?
+31)throttling?
+32)debounce?
+33)curring?
+34)highOrder?
+35)promises 
+36)async await
+37)null & undefined
+38)dead zone
+39)prototype and proto 
+
+
+Css:
+1)Flex vs grid
+2)what is portrait and landscape?
+3)what is pseudo classes?
+4)media queries?
+5)position?
+6)pseudo element?
+7)box model?
+8)text-shadow?
+9)box-shadow?
+10)object -fit?
+
+
+
+Programs:
+1)find largest number
+2)array hai sum of two number is zero
+3)sorting fibonacci series?
+4)how to change first character in uppercase in string?
+5)second max value in array?
+6)remove duplicate values?
+7)count duplicate values?
+8)remove duplicate value  using set?
+9)prime number?
+10)factorial?
+11)swapping?
+12)callback?
+13)shallow copy and deep copy?
+14)anagram?
+15)bubbling and capturing?
+16)reverse no?
+16)event delgation?
+17)missing no?
+
+
+
+Html:
+1)what is doctype in html?
+2)new tag in html5?
+3)what is semantic tags?
+
+Java:
+1)differnce b/w rest api and soap api?
+
+dom:-  
+
+
+Output programs:
+1)What is the output of below code
+const sumOfNumbers = (a, b, callback) => {
+  setTimeout(function() {
+    callback(a + b);
+  }, 100);
+}
+sumOfNumbers(2, 3, function(finalresult)  
+{
+    console.log('Result: ' + finalresult);
+});
+
+console.log('After asynchronous call');
+

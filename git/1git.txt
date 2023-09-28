@@ -1,0 +1,53 @@
+1) what is git?
+2) what is verion control system?
+3)advantage to use git?
+4)what is git repository?
+5)name some popular git hosting reposity?
+6)differnce b/w gir and github?
+7)which language is used in git?
+8)what is git branch?
+9)what is git init?
+10)what is git clone?
+11)what is git add?
+12)what is git commit?
+13)what is git push?
+14)what is git checkout?
+15)what is git merge?
+16)what is staging area?
+17)what is git status?
+18)what is git log?
+19)what is git fetch?
+20)what is git stash?
+21)what is git pull?
+22)what is conflict in git and how to resolve it? 
+
+1)what is branching strategy in github?
+Master,DEV,QA,UAT,VDEV,Prod
+
+2)what is pull request in github?
+
+
+3)differnce b/w merge and rebase command?
+both are used to merge change from one branch to another branch
+merge will preserve the commit history but rebase not presere commit history
+
+4)what is git bisect command?
+It is used to identify bad commit (means introduce a bug)
+
+5)what is git squash command?
+it merge a sequential commit to single commit 
+
+6)what is git stash command?
+it store working tree changes to stash area and making working tree clean.
+
+7)have you ever faced merged conflict and how you resolved?
+8)Who will create git repository in your project?
+9)How you are managing github permission for team member?
+
+10)what is branch lock?
+For production code freeze so no one can commit
+
+11)what is git cherry pick?
+12)what is git reflog?
+13)differnce b/w git revert and git reset?
+14)differnce b/w git pull and git fetch?

@@ -1,0 +1,29 @@
+1)what is static keyword?
+2)what is static varible?
+3)differnce b/w static varible and instance varible?
+4)can we change value of static variable?
+5)how wto access static variblefor another class?
+6)when does static varibleis loaded?
+7)can we have static varible in both staticand non static methods?
+8)can we have static local variable (declareinside methods)?
+9)what id static varible is not initialized?
+10)how to create constant value in java?
+11)what is static method?
+12)why is main() method static in java?
+13)what if static keyword is removed from main method?
+14)how to access static method from another class?
+15)can we have static member in static method?
+16)can we have instance methods/varible in static method?
+17)can we use this and super keyword in static method?
+18)can we have the below 2methods in same class?
+19)can static method be overloaded?
+20)can static method is overridden?
+21)what is static block?
+22)differnce b/w static method and static block?
+23)can we have multiple static block in a  class?
+24)what is the order of execution if multiple static block are there?
+25) can we have non static member in static block?
+26)which is called first main method or static block?
+27)can constructor is static?
+28) which is executed first constructor or static block?
+29)can class be static?   

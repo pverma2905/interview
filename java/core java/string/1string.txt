@@ -1,0 +1,11 @@
+1)what is string in java?
+2)differnt ways to create string object?
+3)what is string constant pool/scp?
+4)what is immutable string in java?
+5)why string is immutable in java?
+6)differnce b/w equals and ==operator?
+7)what is string buffer in java?
+8)what is string builder in java?
+9)when to use string,string buffer,stringbuilder?
+10)differnce b/w string buffer and stringbuilder?
+11)differnce b/w substring and split? 

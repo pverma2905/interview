@@ -1,0 +1,12 @@
+1)what is the purpose of ansible?
+2)what is host inventory?
+3)explain few adhoccommand of ansible?
+4)what is playbook?
+5)write sample playbook to install git in all host nodes?
+6)what is handler in playbook?
+7)what is tag and why we need that?
+8)what all modules you have used in ansible playbook?
+9)how to secure playbook?
+10)why we need to create ansible roles?
+11)what is the register module in ansible?
+12)in aws we have user data to execute scripts while  launching machine. then we need to go for ansible?   

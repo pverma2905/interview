@@ -1,0 +1,6 @@
+1)useParams
+2)useNavigate
+3)useLocation
+4)useMatch
+5)useRoutes
+6)useSearchParams

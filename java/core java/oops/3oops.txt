@@ -1,0 +1,72 @@
+1)what is oops?
+oops is a object oriented programing it is based o object.
+rather then function and precedual
+individual object are grouped into class
+
+2)what are the main feature of oops?
+. inheritence
+. encapsulation
+. polymorphism
+. abstraction
+
+3)what is an object?
+it is a real world entity which is a basic unit of oops.
+
+4)what is class?
+it is template and blueprint describe the state/behaviour that the object of its type support
+
+5)what is inheritence?
+child class acquire the property of parent class by using extend keyword
+advantage- code reusability
+
+6)type of inheritence?
+. single level
+. multilevel
+. hirarchical
+. hybrid 
+
+7)why multiple inheritence is not supported in java?
+due to ambiguity issue java is not supported multiple inheritence 
+
+8)what is encapsulation?
+encapsulation is the process of variable and method in to single unit
+advantage:security 
+
+9)how to acheive encapsulation?
+creating private variable in class
+provide getter and setter method  
+
+10)what is abstraction?
+hiding the implementation details and providing only essential data to the user
+advantage:security 
+ex-atm machine
+
+11)howto acheive abstraction in java?
+abstract class(partail abstraction)
+interface(pure abstraction)
+
+12)what is abstract class?
+13)what is interface?
+14)Anyway we can't create object for abstract class and interface.But abstract classcontains constructor but interface not?
+15)differnce b/w abstract class and interface?
+
+
+
+16)what is polymorphism?
+
+17)what are the type of polymorphism?
+
+
+18)what is method overloading?
+
+
+19)what is method overriding?
+
+
+20)can we overload a static method in java?
+21)can we override the static method in java?
+22)can we override a private method in java?
+23)what is covariant method overiding in java?
+24)method overiding in java?
+25)what is composition?
+26)what is aggregation?  

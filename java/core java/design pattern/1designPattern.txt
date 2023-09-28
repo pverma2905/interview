@@ -1,0 +1,32 @@
+1)What are java design pattern?
+Design pattern are the solution to solve the common problem faced by software developer during software development
+2)advantage of design pattern?
+•	Reusable and  can be used in multiple project
+•	Provide solution that help to define the  system architecture
+•	Provide transparency to design the application
+•	Well tested  and proven since they are built by expert software developer 
+3 )type of design pattern?
+•	Creational pattern-> related to object
+•	Structural pattern-> larger structure of classes
+•	Behavioural pattern->related to communication of class
+4) what is creational pattern ?
+Define and describe theobject are created in best way
+Types:
+•	Factory pattern
+•	Abstract factory pattern
+•	Singleton pattern
+•	Prototype pattern
+•	Builder pattern
+5)factory pattern?
+•	Define an interface or abstract class for creating an object but subclass decide which class to instantiate
+•	Object is creating without exposing the creation logic to client refer to newly created object using common interface
+•	Allow subclass to choose type of object to create
+6)what is abstract factory pattern?
+7)what is singeton pattern? When to use?
+8)different ays to create singleton pattern in java?
+9)how can you achieve thread safe singleton pattern?
+10)what is builder design pattern?
+11)what is structural pattern?
+12)what is adapter pattern?
+13)what is proxy pattern?
+

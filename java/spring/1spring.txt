@@ -1,0 +1,17 @@
+1)what is spring framework? why it is popular?
+2)name some spring important modules?
+3)what is spring mvc?
+4)what is dispatcher servlet/front controller?
+5)what is spring ioc conatainer and its advantage?
+6)explain typeof ioc container of spring?
+7)how tocreate application context in project?
+8)what is spring bean?
+9)how many bean scope supported by spring?
+10)what is spring bean lifecycle?
+11)what is spring configration file and how many ways we can do that?
+12)what do you mean by dependency injection?
+13)differnce b/w setter and constructor injection?
+14)what is bean wiring and @Autowiring annnotation?
+15)what is an InternalResourceViewResolver in spring mvc?
+16)differnce b/w @Component, @Controller, @Repository, @Service annnotation in spring?
+17)what is @ComponentScan annotation in spring?   

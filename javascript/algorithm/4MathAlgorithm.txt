@@ -1,0 +1,7 @@
+1)fibonacci series
+2)factorial
+3)prime
+4)power of 2
+5)Recursion
+6)fibonacci Recursion
+7)factorial Recursion

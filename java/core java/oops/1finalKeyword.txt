@@ -1,0 +1,14 @@
+1)what is final keyword?
+2)differnce b/w static variable and final variable?
+3)what is blank final variable?
+4)can final method is overloaded?
+5)can we make staic method is final?
+6)can main method as final?
+7)can we declare constructor is final?
+8)can we make local varible is final?
+9)can we create object  for final class?
+10)can abstract method is final?
+11)what is Abstract method?
+12)can interface is final?
+13)what is static final varible?
+14)can we change state of object to which final varible is pointing?

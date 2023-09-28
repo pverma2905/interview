@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Reverse2",
+            "request": "launch",
+            "mainClass": "FindReverse.Reverse2",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "FindReverse.Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse1",
+            "request": "launch",
+            "mainClass": "FindReverse.Reverse1",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "FindDuplicateCharacter.Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram.Anagram",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palidrome",
+            "request": "launch",
+            "mainClass": "FindPalidrome.Palidrome",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "CountVowel.Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permutation",
+            "request": "launch",
+            "mainClass": "Permutation.Permutation",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "RemoveWhiteSpace.Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "CountWords.Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "FindUniqueCharacter.Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse1",
+            "request": "launch",
+            "mainClass": "Reverse1",
+            "projectName": "string_6ad1136"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse2",
+            "request": "launch",
+            "mainClass": "Reverse2",
+            "projectName": "string_6ad1136"
+        }
+    ]
+}

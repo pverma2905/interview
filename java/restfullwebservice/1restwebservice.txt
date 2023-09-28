@@ -1,0 +1,16 @@
+1)what is webservice and advantages?
+2)typeof web service?
+3)what is soap,mettion advantages and disadvantages?
+4)what is rest and restful web service?
+5)differnce b/w soap and rest web service?
+6)what is statelessness in restful webservice?
+7)what are the core components of http request?
+8)what is uri and url in rest based webservice?
+9)what are the core component of http response?
+10)what is the purpuse of http sttus code?
+11)what is jax-ws and jax-rs?
+12)what are the implementation of jax-rs api?
+13)what are the http method supported by rest?
+14)what is idempotent and non idempotent operation of restfull web services?
+15)differnce b/w @pathparam and @queryparam?
+16)differnce b/w @consumes and @produces?   

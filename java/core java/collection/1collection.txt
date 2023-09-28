@@ -1,0 +1,27 @@
+1)what is java collection framework?list down its advantage?
+2)differnce  b/w array and collection?
+3)explain collection hierarchy in java?
+4)differnce b/w List and Set?
+5)what is arraylist?
+6)what is Linked list?
+7)differnce b/w arraylist and linkedlist?
+8)what is vector?
+9)differnce b/w arraylist and vector?
+10)what is stack?
+11)what is hashset?
+12)what is Linkedhashset?
+13)what is treeSet?
+14)what is priorityQueue?
+15)what is Dequeue?
+16)what  is arrayDeque?
+17)what is Map?
+18)how to iterate over list in java?
+19)differnc b/w iterator and listiterator?
+20)what do you understand by fail-fast and fail-safe iterator?
+21)how object are compared in java?
+22)differnce b/w collection and collections?
+23)differnce b/w comparable and comparator?
+24)differnce b/w hashMap and hashtable?
+25)how to convert array to arrayList and arrayList to array?
+26)explain internal working of hashmap?
+27)what is Hash Collision in java? 

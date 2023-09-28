@@ -1,0 +1,21 @@
+1)differnce b/w virtuliation and containerization?
+2)why we go for containerization?
+3)which version of docker you are using in your project?
+4)can u explain what is docker file?
+5)share your screen and write docker file to deploy spring boot application?
+6)what is differnce b/w CMD and ENTRYPOINT?
+7)how to build docker image?
+8)what will be there inside docker image?
+9)how you will set docker image  privilege?
+10)howto compress docker image?
+11)why we need to go for Docker Compose?
+12)share your screenand write docker compose file?
+13)how to attach docker volume to docker container?
+14)how to see logs of the container?
+15)why we need to use Docker Network?
+16)can you tell me the docker commands that u have used?
+17)where you are maintaining your project docker image
+18)how you are uploading docker image?
+19)how docker container is creating in your project?
+20)what is docker swarm?
+21)differnce b/w statefull and stateless container?   

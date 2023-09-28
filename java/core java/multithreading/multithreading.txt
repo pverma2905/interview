@@ -1,0 +1,21 @@
+1)what is multitasking and mention its type?
+2)what is process in java?
+3)what is thread?
+4)differnce b/w process and thread?
+5)what is multithreading?
+6)what is thread sheduler?
+7)what are type of thread?
+8)how to create thread in java?
+9)when to use runnable interface/thread class to create thread?
+10)how can we createa deamon thread?
+11)what are the differnet states of lifecycle?
+12)explain start and run method in thread class?
+13)can we call run method of thread class directly?
+14)what is context switching in multithreading?
+15)explain sleep,yeild,join method in thread?
+16)what is thread priority?
+17)how does thread communicate with each other?
+18)why wait() notify() and notifyAll() are in object class notin thread class??
+19)differnce b/w wait and sleep method?
+20)what is deadlock and howto detact and avoid it?
+21)what is synchronization?     

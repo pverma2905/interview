@@ -1,0 +1,8 @@
+1)difference b/w hashmap and treemap?
+2)difference b/w clear and remove in hashmap?
+3)difference b/w hashmap and treemap?
+4)difference b/w hashmap and arraylist?
+5)try to store duplicate key in hashmap?
+6)try tostore duplicate value in hashmap?
+7) difference b/w hashmap and hashtable?
+8)difference b/w hashmap and concurrenthashmap?

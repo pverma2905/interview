@@ -1,0 +1,16 @@
+1)what is monolithic architecture?
+2)advantage of monolithic architecture?
+3)what is microservices?
+4)advantage and disadvantage of microservices?
+5)feature of microservice?
+6)when to use microservices?
+7)difference b/w monolithic ,soa, microservice architecture?
+8)working with microservice architecture?
+9)how microservices are communicate to each other?
+10)what is spring cloud?
+11)service discoveries with implementation?
+12)fault tolearnace with implementation and circuit breaker?
+13)api gatway?
+14)difference b/w eurekaserver and api gateway?
+15) test in microservices?
+16)where microservices can be deployed? 

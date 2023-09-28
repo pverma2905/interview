@@ -1,0 +1,6 @@
+screen recorder
+colorzilla
+measure-it
+browser stack
+wappalyzer
+dummyText

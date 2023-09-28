@@ -1,0 +1,20 @@
+1)what are the new feature introduced of java8?
+2)advantage of java8?
+3)what are functional interface and its use?
+4)what are lambda expression?
+5)what is method refernce in java8?
+6)what is optional? why and how can you use it?
+7)what are default methods in interface in java8?
+8)what are static method  in interface in java8?
+9)what is stream api?
+10)differnc b/w collection and stream?
+11)name some intermediate opertion in stream?
+12)filter?
+13)map?
+14)sorted?
+15)terminal operation in stream?
+16)find employee whose salry is above 10000 using stream? 
+17)difference b/w permagen and metaspace?
+18)nashorn  tutorial?
+19)difference b/w map and flatmap?
+

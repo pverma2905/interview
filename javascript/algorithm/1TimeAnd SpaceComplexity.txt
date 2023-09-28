@@ -1,0 +1,17 @@
+Time And Space Complexity Asymptotic notation:-
+1)Big-O notaion(O-notaion) - wrost case complexity
+2)Omega notaion(omega-notaion) - Best case complexity
+3)Theta-O notaion(theta-notaion) - Average case complexity
+
+O(1)=constant
+O(logn)=logarithmic
+O(n)= linear
+O(nlogn)=logliner
+O(n*n)=quadatic
+O(n*n*n)=cubic
+
+# if input size is half so Olog(n)=logarithmic
+
+
+
+

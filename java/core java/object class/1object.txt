@@ -1,0 +1,10 @@
+1)which class contain object in java?
+2)list down method present in object class?
+a. clone(): this method is used to create a clone of the object
+b. equals(): this method is used to check whether objects are equal.
+c. hashCode(): this method returns the hash value of the object.
+d. toString(): this method returns the String representation of the given object.
+e. wait():  causes the current method to wait until another thread calls notify() or notifyAll() method.
+f. notify(): wakes up the single thread waiting for this object's monitor.
+g. notifyAll(): wakes up all the threads, waiting for this object's monitor.
+h. finalize(): this method is invoked by garbage collector just before the object is garbage collected.

@@ -1,0 +1,6 @@
+useEffect->
+it uses in mounting, unmounting, updating
+it stop unwanted re-rendering of component
+
+useMemo-> 
+it stop unwanted re-rendering of specific part of component    

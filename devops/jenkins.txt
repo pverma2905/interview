@@ -1,0 +1,32 @@
+1)what is ci cd?
+
+2)what is master slave configration in jenkins?
+
+3)what is pipeline in jenkins?
+
+4)which pipeline you are using (scripted and declaritive)?
+
+5)differnce b/w scripted and declaritive pipeline?
+
+6)what are the stages availabe in pipeline?
+
+7)how many pipelineavailabel in your project?
+
+8)how do you deploy the code fromparticular branch using pipeline?
+
+9)what is your pipeline trigger condition, how will get trigger?
+
+10)if one stage is failed in pipline what will happen?
+it stop
+
+11)if one stage is failed in pipeline then i don't want to stop.i want execute remaining stages also how to do that?
+
+12)how to take jenkins backup?
+
+13)In production jenkins intrnet not availble then how to install plugins?
+
+14)what plugins you have used in jenkins server?
+
+15)how to manage user permission in jenkins (developer should not edit jenkins pipeline)?
+
+16)if jenkins pipeline failed then will you taht troubleshoot that issue? 

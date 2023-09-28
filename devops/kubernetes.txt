@@ -1,0 +1,30 @@
+1)what is kubernetes and why we need it?
+2)explain kubernetes architecture and its components?
+3)which kubernetes cluster you are using in your project?
+4)what is prod life cycle in kubernetes?
+5)what is static prod?
+6)why we need namespaces in kubernetes?
+7)what all services availabe in kubernetes & explain differnce among them?
+8)how you are deploying your project in kubernetes?
+9)who is reponsible to write kubernetes manifest yml?
+10)share your screen and write kubernetes deployment manifest yml?
+11)what is the purpuse of label and selector in kubernetes?
+12)which deployment strategy you are following in your project?
+13)what is ingress in kubernetes?
+14)where u hava configured your project domain?
+15)can u open and show me your project in google?
+16)how to check logs of container?
+17)My database pod started but table are not created how to troubleshoot this issue?
+18)how to check db tables created or not in db conatainer?
+19)who will deploy application in cluster & how it is happening in your project? 
+20)what is headless service in kubernetes?
+21)what is the differnce b/w kubernetes and openshift?
+22)in our project we have openshift if select you then how will you contribute to our project?
+23)what are the challenges have faced in kubernetes?
+24)which version of kubernetes is used in your project?
+25)how you are monitoring kubernetes cluster?
+26)Can u please explain what is helm?
+27)how u r doing autoscaling in kubernetes?
+28)differnce b/w kubernetes autoscaling and aws autoscaling?
+29)what is metric server in kubernetes?
+30)differnce b/w deployment and statefulset in kubernetes? 

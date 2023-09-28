@@ -1,0 +1,17 @@
+1)what is spring boot and its advantage?
+2)differnce b/w spring and spring booot?
+3)feature of spring boot?
+4)how doesspring boot works?
+5)How to configure spring boot externally?
+6)what is auto configration in spring boot and howtodisable auto configration?
+7)is it possible to change the port of the embedded  tomcat server?
+8)what is spring boot actuator?
+9)what is the need of spring boot devtools?
+10)how to connect spring boot to external data base?
+11)explain about @SpringBootApplication?
+12)Differnce b/w @Controller and @RestControllerannotation in spring boot?
+13)@RequestBody  and @ResponseBody annotation?
+14)what is @RequestMapping annotation in spring boot?
+15)@GetMapping and @DeleteMApping
+16)@PostMappping and @PutMapping
+17)@PathVariable,@RequestParam,@RequestHeader  

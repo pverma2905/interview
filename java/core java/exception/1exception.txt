@@ -1,0 +1,40 @@
+1)what is exception?
+2)what is excetion handling?
+3)explain exception hierarchy?
+4)differnce b/w error and exception?
+5)differnce b/w chaecked and unchecked exception?
+6)how exception handling done in java?
+7)possibility of try, catch, finally blocks?
+8)throw and throws keyword?
+9)does finally block get executed if either try and catch block are returing the control?
+10)what is the use of printstacktrace() method?
+11)how to create custom exception in java?
+12)differnce b/w final, finally, finalize in java?
+13)rules of method overidding in exception handling?   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1)parent class throw file not found exception?
+2)difference b/w checked and unchecked exception?
+3)difference b/ethrow and throws?
+4)does finally block executer in java?
+5)difference b/w checked and unchecked exception with example?
+6)what is runtime exception?
+7)diffrnce b/w error and exception in java?

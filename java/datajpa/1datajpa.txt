@@ -1,0 +1,2 @@
+1)Hw to access api which is running on https 
+2)Native query in jpa

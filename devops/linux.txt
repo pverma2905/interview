@@ -1,0 +1,35 @@
+1)what kind of linux machine used in your project?
+rhel based machine
+
+2)how to display linux version inthe terminal?
+$ cat/etc/os-release
+
+3)how to display kernal version?
+mediater b/w shaell and hardware
+$ uname -r
+
+4)what is zombie process in linux?
+process whose execution is completed or deleted but still rediside in process in memory
+
+vommand to get zombie process:- ps aux | egrep "Z|defunct"
+
+5)how to display all the running process inlinux os?
+$ ps aux
+
+6)how to kill running procss in the linux?
+kill-9 <ProcessID>
+
+
+7)how to dispaly the files 30 days old?
+Dispaly 30 days old files in pwd:-$ find.-mtime +30 -print
+Dispaly 30 days old files in specific dirctory:-$ find <directory path> -mtime +30 -print
+
+
+8)how  to delete the file which are 30 days old?
+$ find <directory-path> -mtime +30 -delete
+
+9)what is the differnce b/w find and locate?
+local fill search for the file in locte db where as find will search for the file in entire linux file system
+
+10) how to all the user who ar belong to a group?
+$ getent group <group_name>

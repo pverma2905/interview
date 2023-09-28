@@ -1,0 +1,18 @@
+1)what is database?
+2)what is dbms?
+3)what is rdbms?
+4)difference b/w dbms and rdbms?
+5)what are tables?
+6)what is sql?
+7)what are subset of sql?
+8)difference b/w delete,  truncate, drop?
+9)what is constraint?
+10)difference b/w unique key,primary key,foreign key?
+11)what is join?
+12)what is inner join ?
+13)what is left join?
+14)what is right join?
+15)what is full outer join?
+16)what is self join?
+17)Procedure and function 
+18)Difference in group by and where clause
