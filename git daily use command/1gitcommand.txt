@@ -1,0 +1,29 @@
+git config --global --unset user.name
+git config --global --unset user.email
+git config --global --unset credentail.helper
+
+
+
+git config -l
+git config --global user.name ""
+git config --global user.email ""
+#####git config credential.username "pverma2905" 
+git config credential.helper "store"
+git config -l
+git init
+git remote add origin (repo-url)
+git add . (staging command)
+git commit -m "first"
+git push origin master
+
+
+
+git init 
+git add .
+git commit -m"ddddd"
+git remote add origin repoLink
+git config credential.username "pverma2905" 
+git pull origin main --allow-unrelated-histories
+git push origin master 
+
+git checkout -b main
